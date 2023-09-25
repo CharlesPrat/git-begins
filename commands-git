@@ -1,5 +1,2 @@
 pour cloner un repository on ecrit la ligne de commande "git clone" et on met ensuite l'adresse du repository
-pour push 
-git remote add origin https://github.com/CharlesPrat/git-begins.git
-git branch -M main
-git push -u origin main
+pour push les 3 commandes sont add commit push
