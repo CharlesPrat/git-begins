@@ -1,3 +1,4 @@
 pour cloner un repository on ecrit la ligne de commande "git clone" et on met ensuite l'adresse du repository
 pour push les 3 commandes sont git add , git commit , git push
 git pull
+pour creer une branche la ligne de commande est git branch et on entre le nom de la branche ensuite pour switcher la ligne de commande est git checkout
