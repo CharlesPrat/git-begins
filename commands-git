@@ -1,2 +1,3 @@
 pour cloner un repository on ecrit la ligne de commande "git clone" et on met ensuite l'adresse du repository
 pour push les 3 commandes sont add commit push
+git pull
